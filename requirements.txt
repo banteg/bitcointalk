@@ -1,0 +1,8 @@
+tgb
+aiohttp
+lxml
+asyncpg
+pendulum
+click
+ujson
+pyyaml
