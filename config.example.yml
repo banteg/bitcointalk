@@ -1,0 +1,11 @@
+bitcointalk:
+  ignore_older: '2017-11-01'
+  min_views: 500
+  min_replies: 50
+db:
+  user: postgres
+  password:
+  database: bitcointalk
+telegram:
+  key: 11111111:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  chat_id: -1
